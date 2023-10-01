@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java [1.8.333.02]"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="softwares/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="softwares/log4j-api-2.17.1.jar"/>
+	<classpathentry kind="lib" path="softwares/log4j-core-2.17.1.jar"/>
+	<classpathentry kind="lib" path="softwares/log4j-slf4j-impl-2.17.1.jar"/>
+	<classpathentry kind="lib" path="softwares/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
